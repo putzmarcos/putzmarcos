@@ -7,6 +7,5 @@ Learning soft skills <br>
 ### Find me
 [LinkedIn](https://www.linkedin.com/in/marcos-emanuel-438a0a24a/) <br>
 [Telegram](https://t.me/putzmarcos) <br>
-[Protonmail](mailto:marcossouzacg2004@proton.me) <br>
 
 *Chain keep us together*
