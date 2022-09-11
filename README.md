@@ -1,8 +1,12 @@
-# What's up!
+### What's up! I'm Marcos, nice to meet you ;)
 
-- Passionate about programming since the ninth grade
-- Newcomer in computer science at [UEPB](https://uepb.edu.br/)
-- Anxious to share and learn 
-- Working in [my discord bot](https://github.com/putzmarcos/Nina-bot) and studying programing logic
+Student at [Universidade Estadual da Paraíba](https://uepb.edu.br/) <br>
+Polishing my python knowledge <br>
+Learning soft skills <br>
+
+### Find me
+[LinkedIn](https://www.linkedin.com/in/marcos-emanuel-438a0a24a/) <br>
+[Telegram](https://t.me/putzmarcos) <br>
+[Protonmail](mailto:marcossouzacg2004@proton.me) <br>
 
 *Chain keep us together*
